@@ -1,0 +1,174 @@
+
+[
+  {
+    "id": 1,
+    "title": "Web Development Bootcamp",
+    "picture": "https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg",
+    "description": "Learn full-stack web development with HTML, CSS, and JavaScript.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 199
+  },
+  {
+    "id": 2,
+    "title": "Data Science Fundamentals",
+    "picture": "https://cdn.futura-sciences.com/buildsv6/images/wide1920/9/5/0/950321c11d_50173256_data-science-1.jpg",
+    "description": "Explore data analysis, machine learning, and statistical modeling.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 149
+  },
+  {
+    "id": 3,
+    "title": "Graphic Design Masterclass",
+    "picture": "https://clearmindgraphics.com/site/wp-content/uploads/2017/06/shutterstock_296987657-scaled.jpg",
+    "description": "Create stunning visuals using industry-standard tools.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 129
+  },
+  {
+    "id": 4,
+    "title": "Mobile App Development",
+    "picture": "https://radianttechlearning.com/wp-content/uploads/2019/12/mobile-development-01-1024x629.png",
+    "description": "Build Android and iOS apps with React Native.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 179
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing Essentials",
+    "picture": "https://www.phoenixmedia.co.th/wp-content/uploads/2021/03/digital-marketing.jpg",
+    "description": "Learn SEO, social media marketing, and email campaigns.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 99
+  },
+  {
+    "id": 6,
+    "title": "Photography Basics",
+    "picture": "https://digital-photography-school.com/wp-content/uploads/2021/03/photography-projects-1001.jpg",
+    "description": "Master composition, lighting, and editing techniques.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 79
+  },
+  {
+    "id": 7,
+    "title": "Financial Literacy",
+    "picture": "https://th.bing.com/th/id/OIP.8N0LG0kcG6uxXdxTIbihhgHaEc?rs=1&pid=ImgDetMain",
+    "description": "Understand budgeting, investing, and personal finance.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 49
+  },
+  {
+    "id": 8,
+    "title": "Content Writing Workshop",
+    "picture": "https://th.bing.com/th/id/OIP.GYpBWqcVrPjqL0n7c_gi3wHaE8?rs=1&pid=ImgDetMain",
+    "description": "Craft compelling articles, blogs, and copywriting.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 69
+  },
+  {
+    "id": 9,
+    "title": "Introduction to Blockchain",
+    "picture": "https://www.jain.software/wp-content/uploads/2018/03/blockchain1.jpeg",
+    "description": "Explore decentralized ledgers and cryptocurrencies.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 119
+  },
+  {
+    "id": 10,
+    "title": "Yoga and Mindfulness",
+    "picture": "https://i1.wp.com/sabtrends.com/wp-content/uploads/2018/12/Yoga1.jpg?fit=1024%2C682&ssl=1",
+    "description": "Practice relaxation, meditation, and stress management.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 29
+  },
+  {
+    "id": 11,
+    "title": "Cooking Techniques",
+    "picture": "https://247wallst.com/wp-content/uploads/2020/04/GettyImages-1182718316.jpg",
+    "description": "Learn culinary skills, recipes, and flavor combinations.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 59
+  },
+  {
+    "id": 12,
+    "title": "Language Learning Bootcamp",
+    "picture": "https://i.ytimg.com/vi/hrTmEnmb58g/maxresdefault.jpg",
+    "description": "Immerse yourself in Spanish, French, or Mandarin.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 89
+  },
+  {
+    "id": 13,
+    "title": "Interior Design Basics",
+    "picture": "https://www.dsigndpo.com/blog/wp-content/uploads/2022/09/7-Principles-Of-Interior-Design.jpg",
+    "description": "Decorate spaces with color theory and furniture placement.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 109
+  },
+  {
+    "id": 14,
+    "title": "Fitness and Nutrition",
+    "picture": "https://www.ostomylifestyle.org/wp-content/uploads/2020/10/AdobeStock_287369012-1-scaled.jpeg",
+    "description": "Stay healthy with exercise routines and balanced diets.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 39
+  },
+  {
+    "id": 15,
+    "title": "Artificial Intelligence Fundamentals",
+    "picture": "https://icaagencyalliance.com/wp-content/uploads/2019/01/Artificial-Intelligence-Growth-scaled.jpg",
+    "description": "Understand machine learning, neural networks, and AI ethics.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 149
+  },
+  {
+    "id": 16,
+    "title": "Gardening and Horticulture",
+    "picture": "https://uk.hfonline.org/wp-content/uploads/2020/11/99-Horticultural-Worker-Course.jpg",
+    "description": "Grow plants, flowers, and herbs in your backyard.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 49
+  },
+  {
+    "id": 17,
+    "title": "Music Theory for Beginners",
+    "picture": "https://th.bing.com/th/id/OIP.B2W-TyNWLflZhrlL-OYHBgHaJ4?rs=1&pid=ImgDetMain",
+    "description": "Learn notes, scales, and chord progressions.",
+    "duration": "8 weeks",
+    "instructor": "John Doe", 
+    "level": "Intermediate",
+    "price": 59
+  }
+]
+
